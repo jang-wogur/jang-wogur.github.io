@@ -1,3 +1,3 @@
-gem 'jekyll', '>=3.9'
+gem 'jekyll', '4.3.4'
 
 gem "github-pages", group: :jekyll_plugins
