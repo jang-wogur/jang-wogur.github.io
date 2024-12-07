@@ -1,3 +1,3 @@
-gem install jekyll -v "4.3.3"
+gem 'jekyll', '>=3.9'
 
 gem "github-pages", group: :jekyll_plugins
