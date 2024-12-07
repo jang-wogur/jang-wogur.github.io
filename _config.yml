@@ -1,5 +1,6 @@
 title: "Jaehyuk's World"
 description: "Welcome to my world!"
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-remote-theme
