@@ -1,2 +1,5 @@
 title: "Jaehyuk's World"
 description: "Welcome to my world!"
+remote_theme: "jeffreytse/jekyll-theme-yat"
+plugins:
+  - jekyll-remote-theme
