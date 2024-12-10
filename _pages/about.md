@@ -1,4 +1,5 @@
 ---
+title: Jaehyuk Jang
 permalink: /about/
 ---
 
