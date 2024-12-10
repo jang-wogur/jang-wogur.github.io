@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: https://jang-wogur.github.io/about/
   - title: "Tags"
-     url: https://jang-wogur.github.io/tags/
+    url: https://jang-wogur.github.io/tags/
   - title: "Categories"
-     url: https://jang-wogur.github.io/categories/
+    url: https://jang-wogur.github.io/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
