@@ -8,3 +8,7 @@ defaults:
       layout: single
       author_profile: true
 ---
+
+# About me
+
+This page tell you a little bit about me.
