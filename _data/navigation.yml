@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: https://jang-wogur.github.io/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Tags"
+     url: https://jang-wogur.github.io/tags/
+  - title: "Categories"
+     url: https://jang-wogur.github.io/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
